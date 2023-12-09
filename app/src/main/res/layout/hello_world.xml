@@ -5,11 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
-    <ImageViewgit branch -M main
+    <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/unp"
+        android:src="@drawable/unp"/>
 
     <include layout="@layout/hello_form"/>
 
